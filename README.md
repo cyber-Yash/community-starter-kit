@@ -1,8 +1,8 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Pull requests: Read & Write
 
-## What it does
+Issues: Read & Write
 
 FEATURES PLACEHOLDER
 
@@ -10,8 +10,8 @@ FEATURES PLACEHOLDER
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
-- Pull requests: Read & Write
-- Issues: Read & Write
+
+
 
 2. Create a .github/config.yml file to check for content of the comments:
 
